@@ -98,8 +98,7 @@ By the end of the lesson, students will be able to:
 ---
 
 *Exploring the Colors of Nature — Acid-Base Detection in Geosciences*  
-
-> **Jayanga T. Samarasinghe**  
-> *Ph.D. Candidate in Environmental Science and Engineering*  
-> *CIELO-G Research Associate Fellow*
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
 > *The University of Texas at El Paso*

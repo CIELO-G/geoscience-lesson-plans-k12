@@ -1,4 +1,4 @@
-# Lesson 01: Advanced CAD Modelling for Engineering Design
+# Lesson 1: Advanced CAD Modelling for Engineering Design
 
 ## Grade Level
 High School Engineering / STEM (Grades 10–12)
@@ -320,3 +320,10 @@ Provide targeted feedback on:
 - Feature selection
 - CAD modeling technique
 - Adherence to engineering constraints
+
+---
+*Advanced CAD Modelling for Engineering Design*
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

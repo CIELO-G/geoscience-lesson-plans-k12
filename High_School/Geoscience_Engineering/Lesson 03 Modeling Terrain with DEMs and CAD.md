@@ -1,4 +1,4 @@
-# Lesson 03: Modeling Terrain with DEMs and CAD
+# Lesson 3: Modeling Terrain with DEMs and CAD
 *(10th Grade — Engineering & Geoscience 5E Lesson)*
 
 ## Grade Level
@@ -323,3 +323,10 @@ Students briefly justify **one rating** in a written sentence.
 **Collaborative Learning**
 
 Students work in small teams so they can support each other during GIS workflows.
+
+---
+*Modeling Terrain with DEMs and CAD*
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

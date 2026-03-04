@@ -110,8 +110,8 @@ On a half-sheet or full sheet of paper, students should include:
 ---
 
 *Discovering the World of Geoscience*  
-> **Miriam Garcia-Dena**  
-> *Ph.D. Student in Geological Science*  
-> *CIELO-G Research Associate Fellow*
-> *The University of Texas at El Paso*  
+> **Miriam Garcia-Dena**<br>
+> *Ph.D. Student in Geological Science*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*
 

@@ -1,4 +1,4 @@
-# Lesson Plan: Advanced CAD Features — Hole, Shell, Split, Combine, Delete Face, Thicken/Offset, Assembly  
+# Lesson 02: Advanced CAD Features — Hole, Shell, Split, Combine, Delete Face, Thicken/Offset, Assembly  
 *(10th Grade — 5E Engineering Lesson)*
 
 ## Grade Level
@@ -319,3 +319,10 @@ Provide targeted comments on:
 - Feature selection
 - Modeling technique
 - Adherence to engineering constraints
+
+---
+*Advanced CAD Features — Hole, Shell, Split, Combine, Delete Face, Thicken/Offset, Assembly*
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

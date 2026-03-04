@@ -1,6 +1,6 @@
 # Lesson 7: Understanding Weather and Climate on a Global Scale
 
-**Grade Level:** 4th–5th Grade  
+**Grade Level:** 4th and 5th Grade  
 **Subject:** Science  
 **Duration:** 1 Hour 
 

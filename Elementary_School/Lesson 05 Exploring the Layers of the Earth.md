@@ -97,7 +97,7 @@ Students will build a simple 3D model of the layers of the Earth and label each 
 - 
 ---
 *The Importance of Water Resources in Desert Environments*  
-> **Miriam Garcia-Dena**  
-> *Ph.D. Student in Geological Science*  
-> *CIELO-G Research Associate Fellow*
-> *The University of Texas at El Paso*  
+> **Miriam Garcia-Dena**<br>
+> *Ph.D. Student in Geological Science*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*

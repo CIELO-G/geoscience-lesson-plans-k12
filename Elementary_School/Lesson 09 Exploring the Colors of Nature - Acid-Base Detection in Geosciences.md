@@ -1,6 +1,6 @@
 # Lesson 9: Exploring the Colors of Nature — Acid-Base Detection in Geosciences
 
-**Grade Level:** 4th–5th Grade  
+**Grade Level:** 4th and 5th Grade  
 **Subject:** Science  
 **Duration:** 1 Hour  
 

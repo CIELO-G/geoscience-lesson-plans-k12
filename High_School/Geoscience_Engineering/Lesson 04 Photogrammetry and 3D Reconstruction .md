@@ -258,3 +258,9 @@ Expected correct ideas include:
 - **Stable exposure/focus** helps consistent matching
 - **Good lighting** reduces noise; poor lighting increases blur/noise
 - **Shiny or textureless surfaces** reduce identifiable features and can degrade reconstruction
+
+*Photogrammetry and 3D Reconstruction*
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

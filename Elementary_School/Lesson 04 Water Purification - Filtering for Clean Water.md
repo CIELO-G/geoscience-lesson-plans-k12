@@ -97,7 +97,7 @@ By the end of this lesson, students will be able to:
 ---
 
 *Water Purification — Filtering for Clean Water*  
-> **Jayanga T. Samarasinghe**  
-> *Ph.D. Candidate in Environmental Science and Engineering*  
-> *CIELO-G Research Associate Fellow*
-> *The University of Texas at El Paso*  
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*

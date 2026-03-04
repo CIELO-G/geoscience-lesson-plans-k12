@@ -93,7 +93,7 @@ Ask:
 ---
 
 *Understanding Weather and Climate on a Global Scale*  
-> **Jayanga T. Samarasinghe**  
-> *Ph.D. Candidate in Environmental Science and Engineering*  
-> *CIELO-G Research Associate Fellow*
-> *The University of Texas at El Paso* 
+> **Jayanga T. Samarasinghe**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*

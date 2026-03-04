@@ -99,3 +99,13 @@ Each group shares findings. Connect to broader sustainability themes:
 - Corporate transparency and accountability
 - Community empowerment in environmental protection
 - The intersection of science, law, and ethics
+
+---
+
+*Environmental Chemistry and Community Action*  
+> **Emmanuel Sepulveda Guzman**<br>
+> *Ph.D. Student in Education*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*
+
+

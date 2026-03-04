@@ -72,3 +72,9 @@ This lesson will engage students in exploring chemical quantities and reactions 
 - NGSS HS-ESS2-2: Analyze geoscience data to make claims about natural resources and Earth's systems.
 
 This lesson plan integrates hands-on activities and real-world geological concepts to facilitate a comprehensive understanding of chemical quantities and reactions for 11th-grade students.
+
+*Exploring Chemical Quantities and Reactions through Geology*  
+> **Emmanuel Sepulveda Guzman**<br>
+> *Ph.D. Student in Education*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso*

@@ -5,7 +5,7 @@
 **Duration:** 60 minutes
 
 ---
-
+![Lesson 01](assets/Lesson01.png)
 ## OVERVIEW
 
 This lesson introduces students to Earth's energy budget and the processes that regulate the planet's temperature. Students will investigate the balance between incoming solar radiation and outgoing terrestrial radiation while exploring the three mechanisms of heat transfer: radiation, conduction, and convection. Through real-world examples, students will examine why planets have different surface temperatures, investigate the Urban Heat Island effect in El Paso, and connect these concepts to ongoing atmospheric research.

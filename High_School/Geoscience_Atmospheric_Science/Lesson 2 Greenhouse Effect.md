@@ -1,4 +1,4 @@
-# Lesson Plan: Greenhouse Effect
+# Lesson Plan: Lesson 2 Greenhouse Effect
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Atmospheric and Climate Sciences  
@@ -142,3 +142,9 @@ By the end of the lesson, students will be able to:
 - EPA Climate Change Resources
 - NASA Earth Observatory
 - Intergovernmental Panel on Climate Change (IPCC)
+
+*Greenhouse Effect*
+> **Valentina Sanchez Castano**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

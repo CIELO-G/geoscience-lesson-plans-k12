@@ -1,4 +1,4 @@
-# Lesson Plan: Lesson 1 The Earth's Energy Budget
+# Lesson 1: The Earth's Energy Budget
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Atmospheric and Climate Sciences  

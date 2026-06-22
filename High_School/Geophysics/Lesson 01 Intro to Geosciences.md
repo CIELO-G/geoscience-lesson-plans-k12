@@ -79,3 +79,9 @@ By the end of the lesson, students will be able to:
 - IRIS Earthquake Educational Materials
 - USGS Education Resources
 - National Geographic Earth Science Resources
+
+*Introduction to Geoscience*
+> **Leah April**<br>
+> *Ph.D. Candidate in Geology*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

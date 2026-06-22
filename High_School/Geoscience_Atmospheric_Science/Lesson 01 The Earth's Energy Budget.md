@@ -142,3 +142,9 @@ By the end of the lesson, students will be able to:
 - NASA Climate Kids
 - U.S. Environmental Protection Agency – Heat Island Effect
 
+*The Earth's Energy Budget*
+> **Valentina Sanchez Castano**<br>
+> *Ph.D. Candidate in Environmental Science and Engineering*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 
+

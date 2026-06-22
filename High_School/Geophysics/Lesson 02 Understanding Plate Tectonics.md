@@ -1,4 +1,3 @@
-```markdown
 # Lesson Plan: Understanding Plate Tectonics
 
 **Grade Level:** 4th–12th Grade  

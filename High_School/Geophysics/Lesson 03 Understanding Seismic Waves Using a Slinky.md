@@ -1,11 +1,11 @@
-# Lesson Plan: Lesson 03 Understanding Seismic Waves Using a Slinky
+# Lesson 03 Understanding Seismic Waves Using a Slinky
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  
 **Duration:** 45 minutes
 
 ---
-
+![Lesson03](assets/Lesson03.png)
 ## OVERVIEW
 
 This lesson introduces students to how wave physics is applied to the study of Earth through seismology. Using a slinky model, students will observe and compare P-waves and S-waves. Students will identify the characteristics of longitudinal and transverse waves, examine particle motion and wave propagation, and record their observations on a worksheet. By connecting wave behavior to earthquakes, students will gain a better understanding of how seismologists study Earth's interior.

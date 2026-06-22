@@ -111,3 +111,8 @@ By the end of the lesson, students will be able to:
 - IRIS – Plate Tectonic Boundaries
 - IRIS – Oreo Plate Tectonics Activity
 ```
+*Understanding Plate Tectonics*
+> **Leah April**<br>
+> *Ph.D. Candidate in Geology*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

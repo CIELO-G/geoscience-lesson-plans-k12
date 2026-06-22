@@ -1,4 +1,4 @@
-# Lesson Plan: Understanding Plate Tectonics
+# Lesson Plan: Lesson 02 Understanding Plate Tectonics
 
 **Grade Level:** 4th–12th Grade  
 **Subject:** Science  

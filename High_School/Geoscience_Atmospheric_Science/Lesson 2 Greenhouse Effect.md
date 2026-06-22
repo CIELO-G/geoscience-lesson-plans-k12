@@ -1,11 +1,11 @@
-# Lesson Plan: Lesson 2 Greenhouse Effect
+# Lesson 2: Greenhouse Effect
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Atmospheric and Climate Sciences  
 **Duration:** 60 minutes
 
 ---
-
+![Lesson02](assets/Lesson02.png)
 ## OVERVIEW
 
 This lesson introduces students to the greenhouse effect and its role in regulating Earth's climate. Students will explore the structure and composition of Earth's atmosphere, identify the major greenhouse gases, and examine how incoming solar radiation and outgoing infrared radiation maintain Earth's energy balance. Through discussions, data analysis, and real-world examples, students will investigate the natural and enhanced greenhouse effect, human influences on climate change, and potential mitigation strategies.

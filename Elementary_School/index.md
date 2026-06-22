@@ -1,8 +1,3 @@
----
-layout: default
-title: Elementary School Geoscience Lessons
----
-
 # Elementary School Geoscience Lessons
 
 Choose a lesson below.

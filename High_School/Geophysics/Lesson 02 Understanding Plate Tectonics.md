@@ -1,11 +1,11 @@
-# Lesson Plan: Lesson 02 Understanding Plate Tectonics
+# Lesson 02: Understanding Plate Tectonics
 
 **Grade Level:** 4th–12th Grade  
 **Subject:** Science  
 **Duration:** 45 minutes
 
 ---
-
+![Lesson02](assets/Lesson02.png)
 ## OVERVIEW
 
 This lesson introduces students to the fundamentals of plate tectonics through a hands-on Oreo activity. Students will investigate the three types of plate boundaries by modeling their movements and exploring how these interactions create Earth's major landforms and natural hazards, including mountains, ocean trenches, volcanoes, and earthquakes.

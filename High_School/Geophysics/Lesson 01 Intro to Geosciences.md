@@ -1,11 +1,11 @@
-# Lesson Plan: Lesson 01 Introduction to Geoscience
+# Lesson 01: Introduction to Geoscience
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  
 **Duration:** 45 minutes  
 
 ---
-
+![Lesson01](assets/Lesson01.png)
 ## OVERVIEW
 
 This lesson engages students in discovering the broad field of geoscience. Through an interactive presentation and discussion, students will gain a foundational understanding of what geoscience is, the disciplines it encompasses, the work performed by geoscientists, and the career opportunities available within the field. Students will also be introduced to seismology and its importance in understanding Earth's processes and natural hazards.

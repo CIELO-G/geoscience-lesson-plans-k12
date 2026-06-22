@@ -1,4 +1,4 @@
-# Lesson Plan: Understanding Seismic Waves Using a Slinky
+# Lesson Plan: Lesson 03 Understanding Seismic Waves Using a Slinky
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  
@@ -109,3 +109,8 @@ By the end of the lesson, students will be able to:
 - IRIS Seismic Waves Educational Resources
 - USGS Earthquake Hazards Program
 
+*Understanding Seismic Waves Using a Slinky*
+> **Leah April**<br>
+> *Ph.D. Candidate in Geology*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

@@ -1,4 +1,4 @@
-# Lesson Plan: Introduction to Geoscience
+# Lesson Plan: Lesson 01 Introduction to Geoscience
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  

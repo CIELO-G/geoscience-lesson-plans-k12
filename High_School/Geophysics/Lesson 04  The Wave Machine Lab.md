@@ -1,11 +1,11 @@
-# Lesson Plan: Lesson 04 The Wave Machine Lab
+# Lesson 04: The Wave Machine Lab
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  
 **Duration:** 1 hour
 
 ---
-
+![Lesson04](assets/Lesson04.png)
 ## OVERVIEW
 
 This lab demonstrates how to build a wave machine that simulates a transverse wave. Students will observe wave properties such as amplitude, frequency, wavelength, speed, and velocity. Understanding wave properties and how waves move through different materials helps scientists study materials that cannot be directly seen.

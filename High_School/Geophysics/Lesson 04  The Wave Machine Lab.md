@@ -111,3 +111,8 @@ By the end of the lesson, students will be able to:
 - Wave Machine – Flinn Scientific
 - Demonstration Video of Wave Machine
 
+*The Wave Machine Lab*
+> **Leah April**<br>
+> *Ph.D. Candidate in Geology*<br>
+> *CIELO-G Research Associate Fellow*<br>
+> *The University of Texas at El Paso* 

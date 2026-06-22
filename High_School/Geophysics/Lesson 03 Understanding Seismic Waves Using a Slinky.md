@@ -1,4 +1,4 @@
-# Lesson 03 Understanding Seismic Waves Using a Slinky
+# Lesson 03: Understanding Seismic Waves Using a Slinky
 
 **Grade Level:** 9th–12th Grade  
 **Subject:** Science  

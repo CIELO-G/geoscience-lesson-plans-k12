@@ -9,7 +9,7 @@
 **Program:** Journey Through an Agroforest: Inside, Outside, and Beyond - Cielo-G  
 
 ---
-
+![Lesson02](assets/Lesson_Plan_2_Stomata.png)
 # OVERVIEW
 
 This lesson connects to the transpiration lesson by having students directly observe the structures responsible for water loss and gas exchange: the stomata and guard cells. Students will create a leaf print (epidermal peel) using clear glue (e.g. Kola Loka) and clear tape on a glass slide, then examine it under a compound microscope. Students will identify stomata and guard cells, count stomatal density, and relate these observations to transpiration rate and plant adaptation to environmental conditions.

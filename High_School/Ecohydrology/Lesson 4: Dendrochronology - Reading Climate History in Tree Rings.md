@@ -9,7 +9,7 @@
 **Program:** Journey Through an Agroforest: Inside, Outside, and Beyond - Cielo-G  
 
 ---
-![Lesson03](assets/Lesson_Plan_3_Dendrometers_SapFlow.png)
+![Lesson04](assets/Lesson_Plan_4_Dendrochronology.png)
 # OVERVIEW
 
 This lesson introduces dendrochronology, the science of dating and interpreting tree rings, as a way to reconstruct past climate and growth conditions. Building on the transpiration, stomata, dendrometer, and sap flow lessons, students will examine tree ring cross-sections (real samples, cookies/slabs, or printed images) to count tree age, measure ring widths, and relate wide versus narrow rings to wet versus dry years, fire scars, or other environmental disturbances. Students will connect ring-width patterns to water availability, photosynthesis, and long-term climate records relevant to Texas ecosystems.
